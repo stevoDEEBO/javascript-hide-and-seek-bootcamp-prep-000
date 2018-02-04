@@ -1,5 +1,9 @@
 
-function getFirstSelector(selector){
+function getFirstSelector(selector) {
+  
+}
+
+function nestedTarget() {
   
 }
 
